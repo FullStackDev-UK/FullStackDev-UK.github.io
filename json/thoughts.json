@@ -1,0 +1,25 @@
+{
+    "thoughts" : [
+    {
+        "id": 1,
+        "type": "public",
+        "title": "Back in Bristol, future Lumen",
+        "content": "I'm back in Bristol finishing off a Lumen API to replace the proprietary API I use for contact from anywhere (my site, this site, etc.). Contact sent from this site is both stored in a MySql database and emailed to my Gmail account. A Vue 'Admin' component in a Blade template (in a separate Laravel app on a separate, CORS-protected, domain) pulls in and displays any contact.",
+        "created_at": "2019-04-16 23:00:01"
+    },
+    {
+        "id": 2,
+        "type": "public",
+        "title": "Portfolio preparation",
+        "content": "This site will be used to link to previous work that I am moving into public repos. A lot of client work that I have done over the years is being carefully extracted into more anonymous 'snippets' to maintain ethical and moral integrity (can't share other people's ideas). As it takes times to pull this stuff out and drop it into a 'minimum viable product', the output trickle will be staggered though ongoing over the next couple of months...",
+        "created_at": "2019-04-16 23:00:01"
+    },
+    {
+        "id": 3,
+        "type": "public",
+        "title": "Refactoring for fun and profit",
+        "content": "Looking back on code written not 2 months ago, but in some cases 8 to 10 years ago is hilarious. So much information can be absorbed in a year that picking through flagship projects written three or more years ago can end up being a truly humbling experience",
+        "created_at": "2019-04-16 23:00:01"
+    }
+    ]
+}
