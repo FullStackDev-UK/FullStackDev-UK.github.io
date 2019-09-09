@@ -11,14 +11,14 @@
         "id": 2,
         "type": "public",
         "title": "Portfolio preparation",
-        "content": "This site will be used to link to previous work that I am moving into public repos. A lot of client work that I have done over the years is being carefully extracted into more anonymous 'snippets' to maintain ethical and moral integrity (can't share other people's ideas). As it takes times to pull this stuff out and drop it into a 'minimum viable product', the output trickle will be staggered though ongoing over the next couple of months...",
+        "content": "This site has links to some previous work that I have moved into public repos. I've been looking over the work that I have done over the past few years and have started extracting some of the more useful functions into more anonymous 'snippets'. As it takes times to pull this stuff out and drop it into a 'minimum viable product', the output trickle will be staggered though ongoing...",
         "created_at": "2019-04-16 23:00:01"
     },
     {
         "id": 3,
         "type": "public",
         "title": "Refactoring for fun and profit",
-        "content": "Looking back on code written not 2 months ago, but in some cases 8 to 10 years ago is hilarious. So much information can be absorbed in a year that picking through flagship projects written three or more years ago can end up being a truly humbling experience",
+        "content": "Looking back on code written not 2 months ago, but in some cases 8 to 10 years ago is nothing if not interesting. So much information can be absorbed in a year that picking through projects written over five years ago can end being quite the experience!",
         "created_at": "2019-04-16 23:00:01"
     }
     ]

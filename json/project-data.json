@@ -4,7 +4,7 @@
         "id": 1,
         "type": "public",
         "name": "This Site",
-        "description": "This site is moving into the realm of serverless architecture and JAM concepts. It uses vue-router and axios to load JSON files containing the data for the Vue components. It also calls an external API to validate submitted contact, persist it in an offsite MySql database and send a copy to my Gmail.",
+        "description": "This site is moving into the realm of serverless and JAM concepts. It uses vue-router for navigation and axios to load JSON files containing the data for the various Vue components (like this list). It also calls an offsite API to persist any contact in a MySql database and send a copy to my Gmail.",
         "link": "https://github.com/FullStackDev-UK/FullStackDev-UK.github.io",
         "created_at": "2019-04-16 23:00:02",
         "updated_at": "2019-04-16 23:00:02"
@@ -13,7 +13,7 @@
         "id": 2,
         "type": "public",
         "name": "Laravel58",
-        "description": "This is a RESTful API for a single noun. Starting small, it's intended to build up feature-by-feature on separate branches, so I can (in theory) pull in a branch containing roughly what I feel is a good starting point for a given project type",
+        "description": "This is a RESTful API for a single noun. It's intended to build up feature-by-feature on separate branches, so I can (in theory) pull in a branch containing roughly what I feel is a good starting point for a given project type",
         "link": "https://github.com/FullStackDev-UK/laravel58",
         "created_at": "2019-04-16 23:00:02",
         "updated_at": "2019-04-16 23:00:02"
@@ -21,18 +21,18 @@
     {
         "id": 3,
         "type": "public",
-        "name": "Graphing",
-        "description": "Graphs, charts and all things plotty. Current example uses a fixed array of points, but next branch will read JSON from API endpoint(s) and update at regular intervals. Intended for use on dashboards.",
-        "link": "https://github.com/FullStackDev-UK/project_1",
+        "name": "Mapping",
+        "description": "Using MapBox and LeafletJS I'm moving a location-service-heavy app away from my current use of Google Maps API and re-exploring location services from a non-Google perspective in the process",
+        "link": "https://github.com/FullStackDev-UK/mapping",
         "created_at": "2019-04-16 23:00:01",
         "updated_at": "2019-04-16 23:00:01"
     },
     {
         "id": 4,
-        "type": "public",
-        "name": "Mapping",
-        "description": "Using MapBox and LeafletJS I'm moving from my current use of Google Maps API to this new setup. Along the way I'm hoping to re-explore mapping in a bit more depth (well, distance) from a non-Google perspective",
-        "link": "https://github.com/FullStackDev-UK/mapping",
+        "type": "private",
+        "name": "Graphing",
+        "description": "Graphs, charts and all things plotty. Current example uses a fixed array of points, but next branch will read JSON from API endpoint(s) and update at regular intervals. Intended for use on dashboards.",
+        "link": "#",
         "created_at": "2019-04-16 23:00:01",
         "updated_at": "2019-04-16 23:00:01"
     },
@@ -49,7 +49,7 @@
         "id": 6,
         "type": "private",
         "name": "EBook Project",
-        "description": "The eBook project is an ongoing effort to create an open-source e-book template, however basic, that will satisfy the absolute minimum requirements of most of the major publishing platforms with minimal fuss or setup. Intended as a tool to allow everyone at home write a book.",
+        "description": "The eBook project is an ongoing effort to create a basic open-source e-book template that will satisfy the minimum requirements of the major publishing platforms. Aiming to be a free and simple tool allowing anyone to generate an ebook from their content with minimal effort.",
         "link": "#",
         "created_at": "2019-04-16 23:00:01",
         "updated_at": "2019-04-16 23:00:01"
