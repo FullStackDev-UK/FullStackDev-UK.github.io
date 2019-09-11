@@ -29,10 +29,10 @@
     },
     {
         "id": 4,
-        "type": "private",
-        "name": "Graphing",
-        "description": "Graphs, charts and all things plotty. Current example uses a fixed array of points, but next branch will read JSON from API endpoint(s) and update at regular intervals. Intended for use on dashboards.",
-        "link": "#",
+        "type": "public",
+        "name": "Charting",
+        "description": "Graphs, charts and all things plotty. Currently plots points from either local JSON or PHP, but can easily be altered to consume JSON from API endpoint(s), updating at regular intervals. Useful for metrics dashboards.",
+        "link": "https://github.com/FullStackDev-UK/charting",
         "created_at": "2019-04-16 23:00:01",
         "updated_at": "2019-04-16 23:00:01"
     },
