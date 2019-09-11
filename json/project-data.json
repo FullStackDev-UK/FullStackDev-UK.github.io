@@ -31,7 +31,7 @@
         "id": 4,
         "type": "public",
         "name": "Charting",
-        "description": "Graphs, charts and all things plotty. Currently plots points from either local JSON or PHP, but can easily be altered to consume JSON from API endpoint(s), updating at regular intervals. Useful for metrics dashboards.",
+        "description": "Graphs, charts and all things plotty. Currently, this code plots points from either local JSON or PHP, but can easily be altered to consume JSON from API endpoint(s), updating at regular intervals. Uses jqPlot. Useful for metrics dashboards.",
         "link": "https://github.com/FullStackDev-UK/charting",
         "created_at": "2019-04-16 23:00:01",
         "updated_at": "2019-04-16 23:00:01"
