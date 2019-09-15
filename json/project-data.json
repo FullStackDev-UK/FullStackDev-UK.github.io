@@ -21,6 +21,15 @@
     {
         "id": 3,
         "type": "public",
+        "name": "Lumen58",
+        "description": "This is a Lumen-based API for my contact endpoints",
+        "link": "https://github.com/FullStackDev-UK/lumen58",
+        "created_at": "2019-04-16 23:00:02",
+        "updated_at": "2019-04-16 23:00:02"
+    },
+    {
+        "id": 4,
+        "type": "public",
         "name": "Mapping",
         "description": "Using MapBox and LeafletJS I'm moving a location-service-heavy app away from my current use of Google Maps API and re-exploring location services from a non-Google perspective in the process",
         "link": "https://github.com/FullStackDev-UK/mapping",
@@ -28,7 +37,7 @@
         "updated_at": "2019-04-16 23:00:01"
     },
     {
-        "id": 4,
+        "id": 5,
         "type": "public",
         "name": "Charting",
         "description": "Graphs, charts and all things plotty. Currently, this code plots points from either local JSON or PHP, but can easily be altered to consume JSON from API endpoint(s), updating at regular intervals. Uses jqPlot. Useful for metrics dashboards.",
@@ -37,7 +46,7 @@
         "updated_at": "2019-04-16 23:00:01"
     },
     {
-        "id": 5,
+        "id": 6,
         "type": "private",
         "name": "PIoT",
         "description": "PIoT is an Internet-of-Things project based on the Raspberry Pi's GPIO pins. It uses rudimentary Python & PHP. Early in development, but functional. Backburner stuff.",
@@ -46,7 +55,7 @@
         "updated_at": "2019-04-16 23:00:02"
     },
     {
-        "id": 6,
+        "id": 7,
         "type": "private",
         "name": "EBook Project",
         "description": "The eBook project is an ongoing effort to create a basic open-source e-book template that will satisfy the minimum requirements of the major publishing platforms. Aiming to be a free and simple tool allowing anyone to generate an ebook from their content with minimal effort.",
@@ -55,7 +64,7 @@
         "updated_at": "2019-04-16 23:00:01"
     },
     {
-        "id": 7,
+        "id": 8,
         "type": "private",
         "name": "Handy snippets",
         "description": "Handy snippets for PHP, JavaScript, Bash, SQL, HTML, CSS and various tools. Only private until it's cleaned up, even vaguely structured and presentable to the World",
